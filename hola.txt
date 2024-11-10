@@ -1,0 +1,24 @@
+# Proyecto de Prueba
+
+Este repositorio es un archivo de prueba para practicar el uso de GitHub y Git. Aquí probaremos comandos y funcionalidades básicas, como hacer commits, crear ramas, y colaborar con otros.
+
+## Contenido
+
+- `README.md`: Este archivo contiene una descripción del proyecto de prueba.
+- `index.html`: Un archivo HTML básico de ejemplo.
+- `script.js`: Un archivo JavaScript con código de prueba.
+- `style.css`: Un archivo CSS para agregar estilos básicos.
+
+## Objetivo
+
+El objetivo de este repositorio es aprender los conceptos fundamentales de Git y GitHub, incluyendo:
+- Creación de repositorios
+- Manejo de ramas y merges
+- Realización de commits y uso de mensajes
+- Trabajo con colaboradores
+
+## Cómo Usar Este Proyecto
+
+1. Clona el repositorio en tu computadora:
+   ```bash
+   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
